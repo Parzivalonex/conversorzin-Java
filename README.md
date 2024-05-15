@@ -1,4 +1,4 @@
-# conversorzin em JAVA
+# CONVERSOR DE MOEDAS FEITO em JAVA
 
 Objetivo
 
